@@ -3,7 +3,8 @@ Created on 06/04/2015
 
 @author: Marcus
 '''
-
+# Esse programa inicialmente foi criado com principio de fazer um hello word
+# segunda implementação foi fazer um teste para criar um metodo em que abre uma interface com relogio
 
 import Tkinter
 from time import strftime

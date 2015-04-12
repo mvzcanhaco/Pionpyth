@@ -6,6 +6,7 @@ Created on 08/04/2015
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 # programa1.py - Primeiro Programa
+#programa jogo de adivinhação de numeros
 
 import random
 numero = random.randint(1,100)
